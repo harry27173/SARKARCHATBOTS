@@ -1,4 +1,4 @@
-import asyncio
+
 import random
 from nexichat.database import get_served_chats
 from pyrogram import Client, filters
@@ -79,7 +79,7 @@ async def shayri(client: Client, message: Message):
                         "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/TG_BIO_STYLE"
                     ),
                     InlineKeyboardButton(
-                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/harrysfeel"
+                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/+kIlKuGFNCiowZmY9"
                     ),
                 ]
             ]
